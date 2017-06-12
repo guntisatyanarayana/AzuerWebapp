@@ -1,0 +1,3 @@
+<html>
+<h1> Testing web app in Azure 2.0</h1>
+</html>
